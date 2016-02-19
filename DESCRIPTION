@@ -1,0 +1,28 @@
+Package: qfix
+Type: Package
+Title: Collection of misc quick fix functions
+Version: 0.1.9000
+Date: 2016-02-19
+Authors@R: person("Stefan", "Jansson", email = "janzzon@gmail.com", role = c("aut", "cre"))
+Description: A collection of probably poor documented and possibly unstable
+    funcitons that's might be useful anyway to ME. Use at own risk, functions might
+    be randomly added, deprecated or broken from time to time.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports:
+    plyr,
+    ggplot2,
+    dplyr,
+    tidyr,
+    readr,
+    haven,
+    lubridate,
+    stringr,
+    readxl,
+    devtools,
+    testthat,
+    assertthat,
+    pryr,
+    magrittr,
+    checkpoint
