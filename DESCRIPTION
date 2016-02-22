@@ -25,4 +25,5 @@ Imports:
     assertthat,
     pryr,
     magrittr,
-    checkpoint
+    checkpoint,
+    shiny
