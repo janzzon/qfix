@@ -26,4 +26,8 @@ Imports:
     pryr,
     magrittr,
     checkpoint,
-    shiny
+    shiny,
+    knitr,
+    roxygen2,
+    manipulate,
+    microbenchmark
