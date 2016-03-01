@@ -30,4 +30,5 @@ Imports:
     knitr,
     roxygen2,
     manipulate,
-    microbenchmark
+    microbenchmark,
+    shinyapps
