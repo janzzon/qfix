@@ -17,6 +17,7 @@ Imports:
     tidyr,
     readr,
     haven,
+    xml2,
     lubridate,
     stringr,
     readxl,
