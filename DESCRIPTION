@@ -32,4 +32,5 @@ Imports:
     roxygen2,
     manipulate,
     microbenchmark,
-    beepr
+    beepr,
+    XML
