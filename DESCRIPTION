@@ -27,4 +27,5 @@ Imports:
     microbenchmark,
     beepr,
     XML,
-    sweidnumbr
+    sweidnumbr,
+    anytime
