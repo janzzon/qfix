@@ -1,7 +1,7 @@
 Package: qfix
 Type: Package
 Title: Collection of misc quick fix functions
-Version: 0.1.9002
+Version: 0.1.9003
 Date: 2016-11-23
 Authors@R: person("Stefan", "Jansson", email = "janzzon@gmail.com", role = c("aut", "cre"))
 Description: A collection of probably poor documented and possibly unstable
@@ -28,4 +28,5 @@ Imports:
     beepr,
     XML,
     sweidnumbr,
-    anytime
+    anytime,
+    HIBPwned
