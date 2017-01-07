@@ -30,4 +30,5 @@ Imports:
     sweidnumbr,
     anytime,
     HIBPwned,
-    assertive
+    assertive,
+    magrittr
