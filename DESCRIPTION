@@ -1,7 +1,7 @@
 Package: qfix
 Type: Package
 Title: Collection of misc quick fix functions
-Version: 0.1.9006
+Version: 0.1.9007
 Date: 2019-07-08
 Authors@R: person("Stefan", "Jansson", email = "janzzon@gmail.com", role = c("aut", "cre"))
 Description: A collection of probably poor documented and possibly unstable
@@ -30,4 +30,5 @@ Imports:
     sweidnumbr,
     anytime,
     assertive,
-    magrittr
+    magrittr,
+    here
