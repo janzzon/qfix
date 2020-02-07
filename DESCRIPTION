@@ -1,8 +1,8 @@
 Package: qfix
 Type: Package
 Title: Collection of misc quick fix functions
-Version: 0.1.9008
-Date: 2020-02-05
+Version: 0.1.9009
+Date: 2020-02-07
 Authors@R: person("Stefan", "Jansson", email = "janzzon@gmail.com", role = c("aut", "cre"))
 Description: A collection of probably poor documented and possibly unstable
     funcitons that's might be useful anyway to ME. Use at own risk, functions might
@@ -32,4 +32,5 @@ Imports:
     assertive,
     magrittr,
     here,
-    installr
+    installr,
+    benchmarkme
